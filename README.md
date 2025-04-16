@@ -56,9 +56,9 @@ L’application se configure automatiquement pour se lancer au démarrage de Win
 
 ## 🖼️ Aperçu
 
-![[Pasted image 20250416180622.png]]
+![image](https://github.com/user-attachments/assets/dd3972d9-1eb1-40e5-bfd1-61cb177f6a99)
+![image](https://github.com/user-attachments/assets/2e01cf42-9038-4f01-bc53-3c9cc4cdc9ea)
 
-![[Pasted image 20250416180633.png]]
 
 ---
 
