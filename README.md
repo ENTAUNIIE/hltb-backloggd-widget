@@ -18,23 +18,15 @@ Petit widget Electron pour accéder rapidement à [HowLongToBeat](https://howlon
 
 ---
 
-## 🧱 Installation
+## 🚀 Installation 
 
-```bash
-npm install
-npm start
-````
+Téléchargez simplement la dernière version :
 
----
+➡️ [Accéder à la dernière release](https://github.com/ENTAUNIIE/hltb-backloggd-widget/releases/latest)
 
-## 🏁 Générer le setup .exe
-
-```bash
-npm run dist
-```
-
-L’installeur sera généré dans le dossier `dist/` sous la forme `HLTB_Backloggd_Widget Setup.exe`.
-
+1. Télécharger `HLTB_Backloggd_Widget Setup.exe`
+2. Lancer l’installation
+3. Le widget s’ouvrira automatiquement dans la systray à chaque démarrage 🪄
 ---
 
 ## 🚀 Lancement automatique
